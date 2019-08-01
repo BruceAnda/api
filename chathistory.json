@@ -3,7 +3,7 @@
     "data": [{
             "name": "猪妹妹",
             "type": 1,
-            "avatar": "",
+            "avatar": "https://raw.githubusercontent.com/BruceAnda/api/master/images/head_zhu_2019_08_01.jpeg",
             "content": "学委哥哥，作业做好了吗？",
             "images": [
 
@@ -12,7 +12,7 @@
         {
             "name": "孙哥哥",
             "type": 2,
-            "avatar": "",
+            "avatar": "https://raw.githubusercontent.com/BruceAnda/api/master/images/head_sun_2019_08_01.jpg",
             "content": "做好了",
             "images": [
 
@@ -21,7 +21,7 @@
         {
             "name": "猪妹妹",
             "type": 1,
-            "avatar": "",
+            "avatar": "https://raw.githubusercontent.com/BruceAnda/api/master/images/head_zhu_2019_08_01.jpeg",
             "content": "借我看看呗",
             "images": [
 
@@ -30,17 +30,17 @@
         {
             "name": "孙哥哥",
             "type": 2,
-            "avatar": "",
+            "avatar": "https://raw.githubusercontent.com/BruceAnda/api/master/images/head_sun_2019_08_01.jpg",
             "content": "先发过来你的一张照片",
             "images": []
         },
         {
             "name": "猪妹妹",
             "type": 3,
-            "avatar": "",
+            "avatar": "https://raw.githubusercontent.com/BruceAnda/api/master/images/head_zhu_2019_08_01.jpeg",
             "content": "",
             "images": [{
-                "imageurl": "http://img0.dili360.com/rw9/ga/M02/3C/7D/wKgBzFXukmuASKcWACHikM-qeWw887.tub.jpg"
+                "imageurl": "https://raw.githubusercontent.com/BruceAnda/api/master/images/student_2019_08_01.jpg"
             }]
         }
     ]
