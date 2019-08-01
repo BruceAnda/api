@@ -1,0 +1,47 @@
+{
+    "code": "200",
+    "data": [{
+            "name": "猪妹妹",
+            "type": 1,
+            "avatar": "",
+            "content": "学委哥哥，作业做好了吗？",
+            "images": [
+
+            ]
+        },
+        {
+            "name": "孙哥哥",
+            "type": 2,
+            "avatar": "",
+            "content": "做好了",
+            "images": [
+
+            ]
+        },
+        {
+            "name": "猪妹妹",
+            "type": 1,
+            "avatar": "",
+            "content": "借我看看呗",
+            "images": [
+
+            ]
+        },
+        {
+            "name": "孙哥哥",
+            "type": 2,
+            "avatar": "",
+            "content": "先发过来你的一张照片",
+            "images": []
+        },
+        {
+            "name": "猪妹妹",
+            "type": 3,
+            "avatar": "",
+            "content": "",
+            "images": [{
+                "imageurl": "http://img0.dili360.com/rw9/ga/M02/3C/7D/wKgBzFXukmuASKcWACHikM-qeWw887.tub.jpg"
+            }]
+        }
+    ]
+}
