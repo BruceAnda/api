@@ -1,0 +1,31 @@
+{
+    "result":[
+        {
+            "categoryname":"女鞋",
+            "shops":[
+                {
+                    "name":"【加绒休闲 舒适轻便】秋冬增高休闲鞋厚底棉鞋运动户外通勤简约韩版女鞋",
+                    "num":3,
+                    "price":189.0,
+                    "image":"http://mobile.bwstudent.com/images/small/commodity/nx/bx/4/1.jpg"
+                },
+                {
+                    "name":"白色经典秋季新款简约百搭轻便休闲女鞋板鞋小白鞋",
+                    "num":3,
+                    "price":79.0,
+                    "image":"http://mobile.bwstudent.com/images/small/commodity/nx/bx/1/1.jpg"
+                }
+            ]
+        },{
+            "categoryname":"美妆护肤",
+            "shops":[
+                {
+                    "name":"双头两用修容笔",
+                    "num":1,
+                    "price":39.0,
+                    "image":"http://mobile.bwstudent.com/images/small/commodity/mzhf/cz/3/1.jpg"
+                }
+            ]
+        }
+    ]
+}
